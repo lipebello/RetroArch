@@ -11588,6 +11588,10 @@ MSG_HASH(
    "Purple Rain"
    )
 MSG_HASH(
+   MENU_ENUM_LABEL_VALUE_OZONE_COLOR_THEME_BLUE_PILL,
+   "Blue Pill"
+   )
+MSG_HASH(
    MENU_ENUM_LABEL_VALUE_LEFT_THUMBNAILS_OZONE,
    "Secondary Thumbnail"
    )
